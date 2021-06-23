@@ -53,7 +53,7 @@ var frases = [{
 for (var i = 0; i < frases.length; i++) {
     const frase = frases[i];
 
-    document.body.innerHTML += `
+   /* document.body.innerHTML += `
     <div class="card">
         <div class="card-header">
             Frases Motivacionales
@@ -71,6 +71,8 @@ for (var i = 0; i < frases.length; i++) {
 //JQuery ($)
 //EcmaScript 6+
 //
+
+*/
 
 /**
  * JQuery es una librería multi browser que funciona de la misma maneta en cualquier browser y/o dispositivo.
